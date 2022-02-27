@@ -3,7 +3,8 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=farhan955&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan955&layout=compact"/>
 <img  width="87%"></p>
-<p>Languages</p>
+
+## Languages
 <a href="" target="_blank">
 <img alt="Java"   align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
@@ -15,8 +16,7 @@
 </a>
 <img  width="47%"></p>
 
-
-<p>Frame Works</p>
+## Frame Works
 <a href="" target="_blank">
 <img alt="Android" align="left" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
  </a>
@@ -33,7 +33,7 @@
 <img  width="47%"></p>
 
 
-<p>Databases & Cloud Servers </p>
+##  Databases & Cloud Servers
 
 <a href="" target="_blank">
 <img alt="mysql" align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -53,7 +53,7 @@
 
 <img  width="27%"></p>
 
-<p>Forums </p>
+## Forums
 
 
 <a href="" target="_blank">
@@ -71,7 +71,7 @@
 <img  width="27%"></p>
 
 
-<p>Social </p>
+## Social
 
 <a href="" target="_blank">
 <img alt="Java" align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
