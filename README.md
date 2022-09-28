@@ -4,7 +4,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan955&layout=compact"/>
 <img  width="87%"></p>
 
-## Languages
+## &nbsp;Languages
 <a href="" target="_blank">
 <img alt="Java"   align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
